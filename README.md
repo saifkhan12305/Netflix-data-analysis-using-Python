@@ -40,4 +40,65 @@ The goal of this project is to explore Netflix’s movie dataset, uncover meanin
 ---
 
 ## 📂 Project Structure
+```
+Netflix-Data-Analysis/
+│
+├── mymoviesdb.csv
+├── notebooks.ipynb
+└── README.md
+````
 
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3.x**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Jupyter Notebook / VS Code**
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/yourusername/netflix-analysis.git
+cd netflix-analysis
+pip install -r requirements.txt
+``` 
+
+## ▶️ How to Run the Project
+- Using Jupyter Notebook
+```
+jupyter notebook
+```
+
+- Open:
+```
+notebooks/netflix_analysis.ipynb
+```
+
+## 📊 Visualizations Produced
+- Bar chart of most frequent genres
+- Bar chart of movies released per year
+- Text output for:
+- Highest votes
+- Highest popularity
+- Lowest popularity
+
+## 📈 Key Insights (Add Your Dataset Results Here)
+- Once you run the analysis, fill these:
+- Most frequent genre: your result
+- Highest rated movie: your result
+- Most popular movie: your result (Genre: genre)
+- Least popular movie: your result (Genre: genre)
+- Year with most movies: your result
+
+## 📦 requirements.txt
+```
+pandas
+numpy
+matplotlib
+```
