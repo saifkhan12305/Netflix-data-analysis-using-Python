@@ -102,3 +102,7 @@ pandas
 numpy
 matplotlib
 ```
+
+## Author
+- Saif Khan
+- Email : saifkhan123052@gmail.com
